@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.view.backgroundColor = .systemPink
+        print("name created")
         // Do any additional setup after loading the view.
     }
 
